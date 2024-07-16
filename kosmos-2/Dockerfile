@@ -1,5 +1,6 @@
 # FROM nvcr.io/nvidia/pytorch:22.10-py3
-FROM pytorch/pytorch:2.1.2-cuda11.8-cudnn8-devel
+# FROM pytorch/pytorch:2.1.2-cuda11.8-cudnn8-devel
+FROM winglian/axolotl-base:main-base
 
 COPY . /workspace/
 
