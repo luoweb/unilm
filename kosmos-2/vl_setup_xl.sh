@@ -3,5 +3,9 @@ pip install infinibatch/
 pip install torchscale/ --index-url https://download.pytorch.org/whl/cu118
 pip install open_clip/
 pip install --user git+https://github.com/microsoft/DeepSpeed.git@jeffra/engine-xthru-v2
-pip install -v -U git+https://github.com/facebookresearch/xformers.git@v0.0.22
+# pip install -v -U git+https://github.com/facebookresearch/xformers.git@v0.0.22
+# cuda 11.8 version
+pip3 install -U xformers --index-url https://download.pytorch.org/whl/cu118
+# cuda 12.1 version
+# pip3 install -U xformers --index-url https://download.pytorch.org/whl/cu121
 pip install numpy==1.23.0 tiktoken ftfy sentencepiece httpcore==0.17.3 gradio==3.37.0 spacy==3.6.0 thinc==8.1.10 pydantic==1.10.11
