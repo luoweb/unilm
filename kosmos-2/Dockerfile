@@ -5,7 +5,7 @@ FROM python:3.11-slim
 
 COPY . /workspace/
 
-RUN bash /workspace/kosmos-2/vl_setup_xl.sh
+RUN ls -l && bash /workspace/kosmos-2/vl_setup_xl.sh
 
 EXPOSE 7680
 EXPOSE 7860
