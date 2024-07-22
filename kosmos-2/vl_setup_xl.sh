@@ -3,23 +3,22 @@ pip install infinibatch/
 pip install torchscale/
 pip install open_clip/
 
-
-pip install nvidia-pyindex --extra-index-url https://pypi.ngc.nvidia.com
-pip install nvidia-cuda-runtime-cu118 --extra-index-url https://pypi.ngc.nvidia.com
-pip install nvidia-cuda-cupti-cu118 --extra-index-url https://pypi.ngc.nvidia.com
-pip install nvidia-cuda-nvcc-cu118 --extra-index-url https://pypi.ngc.nvidia.com
-pip install nvidia-nvml-dev-cu118 --extra-index-url https://pypi.ngc.nvidia.com
-pip install nvidia-cuda-nvrtc-cu118 --extra-index-url https://pypi.ngc.nvidia.com
-pip install nvidia-nvtx-cu118 --extra-index-url https://pypi.ngc.nvidia.com
-pip install nvidia-cuda-sanitizer-api-cu118 --extra-index-url https://pypi.ngc.nvidia.com
-pip install nvidia-cublas-cu118 --extra-index-url https://pypi.ngc.nvidia.com
-pip install nvidia-cufft-cu118 --extra-index-url https://pypi.ngc.nvidia.com
-pip install nvidia-curand-cu118 --extra-index-url https://pypi.ngc.nvidia.com
-pip install nvidia-cusolver-cu118 --extra-index-url https://pypi.ngc.nvidia.com
-pip install nvidia-cusparse-cu118 --extra-index-url https://pypi.ngc.nvidia.com
-pip install nvidia-npp-cu118 --extra-index-url https://pypi.ngc.nvidia.com
-pip install nvidia-nvjpeg-cu118 --extra-index-url https://pypi.ngc.nvidia.com
-pip install torch==2.2.2+cu118 --extra-index-url https://pypi.ngc.nvidia.com 
+# pip install nvidia-pyindex --extra-index-url https://pypi.ngc.nvidia.com
+# pip install nvidia-cuda-runtime-cu118 --extra-index-url https://pypi.ngc.nvidia.com
+# pip install nvidia-cuda-cupti-cu118 --extra-index-url https://pypi.ngc.nvidia.com
+# pip install nvidia-cuda-nvcc-cu118 --extra-index-url https://pypi.ngc.nvidia.com
+# pip install nvidia-nvml-dev-cu118 --extra-index-url https://pypi.ngc.nvidia.com
+# pip install nvidia-cuda-nvrtc-cu118 --extra-index-url https://pypi.ngc.nvidia.com
+# pip install nvidia-nvtx-cu118 --extra-index-url https://pypi.ngc.nvidia.com
+# pip install nvidia-cuda-sanitizer-api-cu118 --extra-index-url https://pypi.ngc.nvidia.com
+# pip install nvidia-cublas-cu118 --extra-index-url https://pypi.ngc.nvidia.com
+# pip install nvidia-cufft-cu118 --extra-index-url https://pypi.ngc.nvidia.com
+# pip install nvidia-curand-cu118 --extra-index-url https://pypi.ngc.nvidia.com
+# pip install nvidia-cusolver-cu118 --extra-index-url https://pypi.ngc.nvidia.com
+# pip install nvidia-cusparse-cu118 --extra-index-url https://pypi.ngc.nvidia.com
+# pip install nvidia-npp-cu118 --extra-index-url https://pypi.ngc.nvidia.com
+# pip install nvidia-nvjpeg-cu118 --extra-index-url https://pypi.ngc.nvidia.com
+# pip install torch==2.2.2+cu118 --extra-index-url https://pypi.ngc.nvidia.com 
 
 pip install transformers datasets
 # 安装Transformers
