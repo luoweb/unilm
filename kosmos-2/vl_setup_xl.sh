@@ -1,4 +1,5 @@
-pip install fairseq==0.10.1
+pip install numpy cython setuptools>=18.0
+pip install fairseq==0.12.2
 # pip install fairseq/
 pip install infinibatch/ 
 pip install torchscale/
