@@ -1,4 +1,5 @@
-pip install fairseq/
+pip install fairseq==0.10.1
+# pip install fairseq/
 pip install infinibatch/ 
 pip install torchscale/
 pip install open_clip/
